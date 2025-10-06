@@ -2,12 +2,11 @@
 title: Darius Hartlief
 author: Darius Hartlief
 shortbio: PhD student at [MPI-SP](https://www.mpi-sp.org)
-description-meta: PhD student at [MPI-SP](https://www.mpi-sp.org)
+description-meta: PhD student at MPI-SP
 og-url: https://dariushartlief.github.io
-location: Some lab, office 777
-email: darius.hartlief@mpi-sp.org
+email: [darius.hartlief@mpi-sp.org](mailto:darius.hartlief@mpi-sp.org)
 picture: img/profile.png
-picture-round: false
+picture-round: true
 side-by-side: true
 pronouns: he/him
 og-picture: https://dariushartlief.github.io/img/profile.png
