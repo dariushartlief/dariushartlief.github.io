@@ -4,7 +4,7 @@ author: Darius Hartlief
 shortbio: PhD student at [MPI-SP](https://www.mpi-sp.org)
 description-meta: PhD student at MPI-SP
 og-url: https://dariushartlief.github.io
-email: [darius.hartlief@mpi-sp.org](mailto:darius.hartlief@mpi-sp.org)
+email: darius.hartlief@mpi-sp.org
 picture: img/profile.png
 picture-round: true
 side-by-side: true
@@ -18,7 +18,7 @@ footer: >-
   made to be easy to use! 🎓
 ---
 
-I am a PhD student at the Max Planck Institute for Security and Privacy in Bochum, supervised by [Jana Hofmann](https://janahofmann.github.io/). My current research focuses on detecting microarchitectural side-channel vulnerabilities in software.
+I am a PhD student at the [Max Planck Institute for Security and Privacy](https://mpi-sp.org) in Bochum, supervised by [Jana Hofmann](https://janahofmann.github.io/). My current research focuses on detecting microarchitectural side-channel vulnerabilities in software.
 
 # Education
 
