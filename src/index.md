@@ -20,6 +20,18 @@ footer: >-
 
 I am a PhD student at the [Max Planck Institute for Security and Privacy](https://mpi-sp.org) in Bochum, supervised by [Jana Hofmann](https://janahofmann.github.io/). My current research focuses on detecting microarchitectural side-channel vulnerabilities in software.
 
+# Publications
+
+## Journal papers
+
+``` yaml {.paper}
+title: Agile Acceleration of Stateful Hash-based Signatures in Hardware
+authors: Jan Philipp Thoma, Darius Hartlief, Tim Güneysu
+venue: ACM Transactions on Embedded Computing Systems
+year: 2024
+url: https://dl.acm.org/doi/full/10.1145/3567426
+```
+
 # Education
 
 - Since October 2025: PhD student at [MPI-SP](https://mpi-sp.org)
